@@ -5,7 +5,7 @@ from csv import writer
 state=input("Enter the state: ")
 district=input("Enter the district: ")
 if(state=="ARUNACHAL PRADESH"):
-    state=ARUNACHAL+PRADESH
+    state='ARUNACHAL+PRADESH'
 elif(state=='ANDHRA PRADESH'):
     state='ANDHRA+PRADESH'
 elif(state=='DAMAN & DIU'):
