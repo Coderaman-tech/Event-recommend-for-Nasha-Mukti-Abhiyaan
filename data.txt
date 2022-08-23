@@ -264,8 +264,8 @@ Type of institution: School
 
 College/University: SHRI GURU NANAK AV SCHOOL                              
 Type of programme: Session/Lecture                              
-Total Participants: 101                             
+Total Participants: 100                              
 Teachers present: 2                              
 Female Participants: 75                              
 Date: 20/08/2021                              
-Geo-coordinates: 30.1473228,74.1942045                    
+Geo-coordinates: 30.1473228,74.1942045                              

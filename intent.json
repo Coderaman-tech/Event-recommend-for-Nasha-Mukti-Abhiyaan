@@ -1,0 +1,22 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["Hello","Hey","Hi","Good day","Greetings","What's up?","How is it going"],
+    "responses":["Hello!","Hey!","What can I do for you?"]
+},
+{"tag":"goodbye",
+"patterns":["See you later","Goodbye","I am leaving","Have a Good day","bye","see you"],
+"responses":["Talk to you later","Goodboy!"]
+},
+{"tag":"about",
+"patterns":["What is Nasha Mukt  Bharat Abhiyaan","Tell me about Nasha Mukt Bharat Abhiyaan","Nasha Mukt Abhiyaan"],
+"responses":["Nasha Mukt Bharat Abhiyaan intends to reach out to the masses and spread awareness about substance abuse through various activities like: Awareness generation programmes."]
+},
+{"tag":"involve",
+"patterns":["How can I involved with this campaign?","How can I join with this abhiyaan"],
+"responses":["Participate in the event,Being the volunteer with us,Organise your own event,Complete the task" ]
+},
+{"tag":"disadvantage",
+"patterns":["What is the disadvantage of taking a drugs?","What will happen if I am taking a drugs?"],
+"responses":["Mental Health,Financial issues,Relationship issues,Legal issues and many more"]
+}
+]}
