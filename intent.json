@@ -7,6 +7,11 @@
 "patterns":["See you later","Goodbye","I am leaving","Have a Good day","bye","see you"],
 "responses":["Talk to you later","Bye!"]
 },
+{
+    "tag":"name",
+    "patterns":["What is your name?","Your name"],
+    "responses":["I am Mukti Bot"]
+},
 {"tag":"about",
 "patterns":["What is Nasha Mukt  Bharat Abhiyaan","Tell me about Nasha Mukt Bharat Abhiyaan","Nasha Mukt Abhiyaan"],
 "responses":["Nasha Mukt Bharat Abhiyaan intends to reach out to the masses and spread awareness about substance abuse through various activities like: Awareness generation programmes."]
@@ -48,5 +53,12 @@
     "tag":"near_location",
     "patterns":["What location is perfect near around me to conduct events","want to organize event near me"],
     "responses":["Ok"]
+},
+{
+    "tag":"slogan",
+        "patterns":["Tell some slogan realted to Nasha Mukt Bharat Abhiyaan","Tell me some slogan"],
+        "responses":["1.Be A Hero, Be Drug Zero.\n2.If It's Addicting, It's Not Life-Changing."]
+    
 }
+
 ]}
