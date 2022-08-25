@@ -5,7 +5,7 @@
 },
 {"tag":"goodbye",
 "patterns":["See you later","Goodbye","I am leaving","Have a Good day","bye","see you"],
-"responses":["Talk to you later","Goodboy!"]
+"responses":["Talk to you later","Bye!"]
 },
 {"tag":"about",
 "patterns":["What is Nasha Mukt  Bharat Abhiyaan","Tell me about Nasha Mukt Bharat Abhiyaan","Nasha Mukt Abhiyaan"],
@@ -18,5 +18,20 @@
 {"tag":"disadvantage",
 "patterns":["What is the disadvantage of taking a drugs?","What will happen if I am taking a drugs?"],
 "responses":["Mental Health,Financial issues,Relationship issues,Legal issues and many more"]
+},
+{
+    "tag":"thanks",
+    "patterns":["thank you","ok","thanks","nice","great","Ok","Thanks","Thanks for information"],
+    "responses":["Thank you for asking queries"]
+},
+{
+    "tag":"starting",
+    "patterns":["When was Nasha MUKT Bharat Abhiyan launched?","WHO launched Nasha MUKT Bharat?","How many district are the part of Nasha Mukti Bharat Abhiyaan?"],
+    "responses":["Ministry of Social Justice & Empowerment which is the Nodal Ministry for Drug Demand Reduction has formulated and launched Nasha Mukt Bharat Abhiyaan (NMBA) on 15th August 2020, in 272 Districts across 32 State/Union Territories identified as most vulnerable in terms of usage of drugs in the country."]
+},
+{
+    "tag":"departments",
+    "patterns":["Which three departments are involved in the Nasha Mukt Bharat Abhiyaan?"],
+    "responses":["Narcotics Control Bureau, Outreach and Awareness and Demand Reduction effort by Social Justice and Empowerment and treatment through Health Department."]
 }
 ]}
