@@ -13,15 +13,15 @@
 },
 {"tag":"involve",
 "patterns":["How can I involved with this campaign?","How can I join with this abhiyaan"],
-"responses":["Participate in the event,Being the volunteer with us,Organise your own event,Complete the task" ]
+"responses":["Participate in the event\nBeing the volunteer with us\nOrganise your own event\nComplete the given task" ]
 },
 {"tag":"disadvantage",
 "patterns":["What is the disadvantage of taking a drugs?","What will happen if I am taking a drugs?"],
-"responses":["Mental Health,Financial issues,Relationship issues,Legal issues and many more"]
+"responses":["Mental Health\nFinancial issues\nRelationship issues\nLegal issues and many more"]
 },
 {
     "tag":"thanks",
-    "patterns":["thank you","ok","thanks","nice","great","Ok","Thanks","Thanks for information"],
+    "patterns":["thank you","ok","okk","Okk","thanks","nice","great","Ok","Thanks","Thanks for information"],
     "responses":["Thank you for asking queries"]
 },
 {
@@ -33,5 +33,20 @@
     "tag":"departments",
     "patterns":["Which three departments are involved in the Nasha Mukt Bharat Abhiyaan?"],
     "responses":["Narcotics Control Bureau, Outreach and Awareness and Demand Reduction effort by Social Justice and Empowerment and treatment through Health Department."]
+},
+{
+    "tag":"alcohol",
+    "patterns":["How can I avoid drinking?","How can I avoid alcohol?","What is the procedure to not drink?"],
+    "responses":["Announce your goal\nBe upfront about your new limits\nGet rid of temptations\nAvoid bad influences\n\nAlso you can join the event\nParul University\nDate-26/08/2022\nTime-09:00 A.M. to 11:00 A.M."]
+},
+{
+    "tag":"smoking",
+    "patterns":["How can I avoid smoking?","How can I avoid ciggrate"],
+    "responses":["1. Try nicotine replacement therapy\n2. Avoid triggers\n3. Delay\n4. Remind yourself of the benefits\n\nAlso you can join the event\nParul University\nDate-26/08/2022\nTime-09:00 A.M. to 11:00 A.M."]
+},
+{
+    "tag":"near_location",
+    "patterns":["What location is perfect near around me to conduct events","want to organize event near me"],
+    "responses":["Ok"]
 }
 ]}
